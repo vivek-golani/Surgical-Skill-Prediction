@@ -23,6 +23,10 @@ Recommended Environment for Surgical Skill Prediction repository:
 ## Data
 Data for our project can be found [here](https://drive.google.com/drive/folders/1-JY1BFskqhO-u-RJDk1cTsM1EgDzuwwF?usp=sharing)
 
-The Data contains the follow
+ 1. Complete [the access form of the JIGSAWS dataset](https://cs.jhu.edu/~los/jigsaws/info.php) and get the permission.
+ 2. Download our processed data for JIGSAWS from [Google Drive](https://drive.google.com/drive/folders/1-JY1BFskqhO-u-RJDk1cTsM1EgDzuwwF?usp=sharing)
+ 3. Put the data into the parent directory of the codes.
+ 4. Please maintain directory structure [like](https://drive.google.com/drive/folders/1-JY1BFskqhO-u-RJDk1cTsM1EgDzuwwF?usp=sharing) as we did in our experiments
+The Data contains the following i
 
 
